@@ -1,11 +1,8 @@
 # UNP-POWERBI_HR-EMPLOYEE_ATTRITION
 
-completed UNP POWER BI project as a part of internship with UNITED NETWORK OF PROFESSIONALS 
-key takeaways :
-"Optimize workforce management with a HR Employee Attrition Data Project using Power BI.
-Visualize key attrition metrics, analyze trends, and empower decision-makers with actionable insights for effective talent retention and strategic HR planning."
 
-CANVA LINK :https://www.canva.com/design/DAF4FvrXmOg/OAJGozLhoEtjvD1ihCILKQ/edit?utm_content=DAF4FvrXmOg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Completed this project as a part of a value added course by UNITED NETWORK OF PROFESSIONALS. A high attrition rate can have several implications for an organistations. It may indicate dissatisfaction among employees, lack of engagement, or issues with other work environment. High turnover can be costly for business due to recruitment and training expenses, as well as potential disruptions in productivity and team dynamics.
+
 
 
 PBIX FILE LINK :https://drive.google.com/file/d/11f_gkI1IjwWqd3PbENbw4P3lMOjgDFYD/view?usp=sharing
