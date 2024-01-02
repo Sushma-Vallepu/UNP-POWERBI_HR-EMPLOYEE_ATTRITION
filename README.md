@@ -8,7 +8,7 @@ Completed this project as a part of a value added course by UNITED NETWORK OF PR
 PBIX FILE LINK :https://drive.google.com/file/d/11f_gkI1IjwWqd3PbENbw4P3lMOjgDFYD/view?usp=sharing
 
 
-PDF LINK :https://drive.google.com/file/d/1Vvk-kkSVZgXAAw8dyNHE5BP7uiFdDqf6/view?usp=sharing
+PDF LINK :https://drive.google.com/file/d/1RsTvf769VGCmungyopgHPb5wezDkLZS4/view?usp=sharing
 
 
 
